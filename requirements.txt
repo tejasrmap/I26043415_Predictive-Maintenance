@@ -1,0 +1,9 @@
+# PRG4206 Explainable Predictive Maintenance Dependencies
+pandas>=2.0.0
+numpy>=1.22.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+streamlit>=1.28.0
+shap>=0.42.0
